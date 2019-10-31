@@ -1,0 +1,37 @@
+{
+    "com.github.yegorf1.ulauncher-translator": {
+        "url": "https://github.com/yegorf1/ulauncher-translator",
+        "last_commit": "c80a4bc3ecdbd559f79b08c3b7c118663610f5b0",
+        "last_commit_time": "2018-08-26T23:21:25Z",
+        "updated_at": "2018-11-12T20:14:33.271881",
+        "id": "com.github.yegorf1.ulauncher-translator"
+    },
+    "com.github.brpaz.ulauncher-devdocs": {
+        "url": "https://github.com/brpaz/ulauncher-devdocs",
+        "last_commit": "e525c76e7c6fd8c9bd6870fec0df1ebbbed09074",
+        "last_commit_time": "2019-07-28T14:29:24",
+        "updated_at": "2019-10-01T08:36:50.094779",
+        "id": "com.github.brpaz.ulauncher-devdocs"
+    },
+    "com.github.brpaz.ulauncher-file-search": {
+        "url": "https://github.com/brpaz/ulauncher-file-search",
+        "last_commit": "1b82415d9c1f71720c201a982a0865f96b24376f",
+        "last_commit_time": "2019-08-11T09:33:17",
+        "updated_at": "2019-10-01T08:33:40.876794",
+        "id": "com.github.brpaz.ulauncher-file-search"
+    },
+    "com.github.friday.ulauncher-clipboard": {
+        "url": "https://github.com/friday/ulauncher-clipboard",
+        "last_commit": "3e9cab113c6b8b2d4c0c808b219534497ea52efe",
+        "last_commit_time": "2019-06-19T12:51:23",
+        "updated_at": "2019-10-01T08:33:35.813056",
+        "id": "com.github.friday.ulauncher-clipboard"
+    },
+    "com.github.cmuench.ulauncher-todoist": {
+        "url": "https://github.com/cmuench/ulauncher-todoist",
+        "id": "com.github.cmuench.ulauncher-todoist",
+        "last_commit_time": "2019-09-07T17:56:32",
+        "updated_at": "2019-10-01T13:31:38.642457",
+        "last_commit": "1f5ddb7071195e939330d9d1772449649f563499"
+    }
+}
