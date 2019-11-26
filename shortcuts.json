@@ -3,8 +3,8 @@
         "id": "f6a7affb-36c0-4fdd-957d-8a7bb29fc04c",
         "name": "Todoist",
         "keyword": "todo",
-        "icon": "~/Downloads/todoist.png",
         "cmd": "https://todoist.com/app?lang=pt_BR#start",
+        "icon": "~/.config/ulauncher/images/todoist.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1569952255.2237115
@@ -13,8 +13,8 @@
         "id": "8b20f81f-6e78-4630-945d-23ee792632a0",
         "name": "Translate",
         "keyword": "tr",
-        "icon": "~/Downloads/Google_Translate_Icon.png",
         "cmd": "https://translate.google.com.br/#view=home&op=translate&sl=en&tl=pt&text=%s",
+        "icon": "~/.config/ulauncher/images/translate.png",
         "is_default_search": true,
         "run_without_argument": false,
         "added": 1569930896.1822696
@@ -23,8 +23,8 @@
         "id": "4908c170-b78f-42eb-b808-037c5ae50cd4",
         "name": "Down jenkins",
         "keyword": "jkd",
-        "icon": "~/Downloads/jenkins-ci_512.png",
         "cmd": "https://facil123-jenkins-scheduler.herokuapp.com/down?token=2K5bvoXt4ygC1XwJMN6l9PW0ZPWxFK2v",
+        "icon": "~/.config/ulauncher/images/jenkins.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1572541933.5268834
@@ -42,8 +42,8 @@
         "id": "a075a28f-2171-4ed6-bde1-964eb72017bd",
         "name": "Youtube",
         "keyword": "yt",
-        "icon": "~/Downloads/580b57fcd9996e24bc43c545.png",
         "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": "~/.config/ulauncher/images/youtube.png",
         "is_default_search": true,
         "run_without_argument": false,
         "added": 1569931336.6528568
@@ -52,8 +52,8 @@
         "id": "b8b1c604-edcf-40eb-aaef-b6b7bd4054ed",
         "name": "Facil123 jenkins activity",
         "keyword": "jenkins",
-        "icon": "~/Downloads/jenkins-ci_512 (copy).png",
         "cmd": "http://3.216.180.210:8080/blue/organizations/jenkins/facil123/activity/",
+        "icon": "~/.config/ulauncher/images/jenkins.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1572544880.7608056
@@ -62,8 +62,8 @@
         "id": "7519cc55-6443-492c-981e-2f75188dfff4",
         "name": "Github Facil123",
         "keyword": "gfacil",
-        "icon": "~/Downloads/facil123.png",
         "cmd": "https://github.com/asseinfo/facil123",
+        "icon": "~/.config/ulauncher/images/asseinfo.png",
         "is_default_search": false,
         "run_without_argument": true,
         "added": 1572523878.3865707
@@ -81,8 +81,8 @@
         "id": "b3b58b44-be57-4801-bb1b-55b66e141402",
         "name": "Up jenkins",
         "keyword": "jku",
-        "icon": "~/Downloads/jenkins-ci_512.png",
         "cmd": "https://facil123-jenkins-scheduler.herokuapp.com/up?token=2K5bvoXt4ygC1XwJMN6l9PW0ZPWxFK2v&agents=%s",
+        "icon": "~/.config/ulauncher/images/jenkins.png",
         "is_default_search": false,
         "run_without_argument": false,
         "added": 1572541824.6250582
